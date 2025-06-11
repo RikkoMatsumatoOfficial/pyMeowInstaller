@@ -2,7 +2,7 @@
 This is My First C++ Installer for pyMeow... So Enjoy to use this!!!
 
 > [!WARNING]
-> You need Install Python 3.13 or newer!!! Thank you for Reading this Warning!!!
+> You need Install Python 3.13 or newer and check if python is set as Environment System!!! Thank you for Reading this Warning!!!
 
 ## Donations
 
