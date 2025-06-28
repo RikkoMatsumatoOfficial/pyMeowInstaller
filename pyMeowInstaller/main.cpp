@@ -8,7 +8,6 @@ void PyMeowInst() {
 	f::path p("pyMeow-1.73.42.zip");
 	if (f::exists(p)) {
 		system("pip install pyMeow-1.73.42.zip");
-		system("pause");
 		std::remove("pyMeow-1.73.42.zip");
 		cout << "This Program is Created By RikkoMatsumatoOfficial" << endl;
 		Sleep(4000);
